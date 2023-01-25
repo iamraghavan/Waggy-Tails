@@ -257,14 +257,14 @@ label {
     text-transform: uppercase;
     letter-spacing: 3px;
     font-size: 20px;
-    font-weight: 800;
+    font-weight: 500;
     color: #5B5F6B;
     position: relative;
     font-family:  'Fredoka One', cursive
 }
 
 .site-title {
-    font-weight: 700;
+    font-weight: 500;
     text-transform: capitalize;
     font-size: 45px;
     color: #393d72;
@@ -807,7 +807,7 @@ label {
         margin-right: 22px;
         padding: 30px 0;
         font-size: 19px;
-        font-weight: 600;
+        font-weight: 300;
         color: #393d72;
         text-transform: capitalize;
         font-family:  'Fredoka One', cursive
