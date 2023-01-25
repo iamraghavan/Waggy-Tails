@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 *,
 *:before,
 *:after {
@@ -20,7 +22,7 @@ body {
 }
 
 body {
-    font-family: 'Roboto Serif', serif;;
+    font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-size: 16px;
     font-weight: 400;
@@ -68,7 +70,8 @@ h6 {
     color: #393d72;
     margin: 0;
     font-weight: 600;
-    font-family:  'Fredoka One', cursive;
+    font-family:  'Sriracha', cursive;
+    ;
     line-height: 1.2
 }
 
@@ -3510,7 +3513,7 @@ button.navbar-toggler:focus {
 }
 
 .site-breadcrumb .breadcrumb-menu li.active {
-    color: #5B5F6B
+    color: #a5e70b
 }
 
 @media(max-width:991px) {
