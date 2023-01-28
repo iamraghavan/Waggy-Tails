@@ -1075,11 +1075,11 @@ button.navbar-toggler:focus {
     }
 
     .navbar-brand img {
-        width: 130px
+        width: 220px
     }
 
     .navbar-collapse {
-        max-height: 220px;
+        max-height: 650px;
         overflow: hidden;
         overflow-y: auto;
         padding: 0 20px;
